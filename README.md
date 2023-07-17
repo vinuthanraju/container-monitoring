@@ -25,7 +25,3 @@ In Lehman's term Grafana is a User interface for viewing the metrics scraped by 
 
 
 ![Dataflow](image.png)
-
-
-Steps for installation:
-
